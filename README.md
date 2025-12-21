@@ -34,14 +34,13 @@ stellar contract invoke \
   --source-account dev \
   --network testnet \
   -- get_reputation \
-  --user user2 ```
-
+  --user user2 
+```
 ## 🔮 Future Improvements
 
 -Weighted reviews
-
 -Review history & pagination
-
 -Time-based reputation decay
-
 -Category-based reputation
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
